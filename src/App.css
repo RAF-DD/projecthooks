@@ -1,0 +1,21 @@
+.App {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  background-color: black;
+  color: aliceblue;
+  flex-direction: column;
+}
+
+
+.movi{
+  display: flex;
+  flex-direction: row;
+  margin: auto 10px;
+  background-color: black;
+  justify-content: center;
+  color: black;
+  margin-left: 10px;
+  margin-right: 10px;
+  flex-wrap: wrap;
+}
